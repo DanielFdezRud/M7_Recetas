@@ -1,7 +1,3 @@
 Platano
-Caramelo
-<<<<<<< HEAD
-Modificacion local 10/10
-=======
-Modificado en GitHub 1080Kcal
->>>>>>> d676dae8637895bc7e4ecad7ffbcc9db6121d75a
+Chocolate
+>>>>>>> fix-pastis
